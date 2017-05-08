@@ -354,7 +354,9 @@
   {
     // Sidebar entry
     "class": "sidebar_label",
-    "color": [140, 140, 140]
+    "color": [140, 140, 140],
+    "font.size": 13,
+    // "font.face": "Source Code Pro Light"
   },
   {
     // Sidebar folder entry
